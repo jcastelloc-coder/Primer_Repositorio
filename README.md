@@ -1,2 +1,3 @@
 # Primer_Repositorio
-creacion de repositorio (APE)
+Lo que aprendi
+
